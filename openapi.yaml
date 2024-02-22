@@ -83,5 +83,5 @@ paths:
         '400':
           description: Bad request. Invalid request body.
         '500':
-          description: Internal server error. Failed to add order to the database.
+          description: Internal server error. Failed toadd order to the database.
 
